@@ -1,1 +1,1 @@
-#This is my Simple Html Folder.
+This is my Simple Html Folder.
